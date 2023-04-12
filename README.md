@@ -14,6 +14,7 @@ Tasks:
 
 6.) Student class - Nikki 
 
+7.) Testing code
 
 
 Initialized the hash table - Tom Powis
