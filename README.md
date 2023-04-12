@@ -10,3 +10,7 @@ Tasks:
 
 4.) Building the hash table
 
+
+
+Initialized the hash table - Tom Powis
+Created the student class - Nikki Gorski
