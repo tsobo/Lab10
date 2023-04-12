@@ -2,13 +2,17 @@
 
 Tasks:
 
-1.) Add method
+1.) Add method - Thomas Powis
 
-2.) Resize method
+2.) Resize method - Thaddus 
 
-3.) Find method
+3.) Find method - Jonathan 
 
-4.) Building the hash table
+4.) Building the hash table - Thomas
+
+5.) Hashcode Method - Nikki 
+
+6.) Student class - Nikki 
 
 
 
