@@ -15,8 +15,10 @@ public class HashTable {
 		//Finally add it to the table
 	}
 	
-	public static boolean resize() {
-		
+		public static boolean resize() {
+		int newSize = hashTable.length * 2;
+		String[] newHash = Arrays.copyOf(hashTable, newSize);
+		return true;
 	}
 	
 	public static String find(Int input) {
